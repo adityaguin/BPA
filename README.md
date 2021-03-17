@@ -1,2 +1,2 @@
 # BPA
-BPA c++ contests
+BPA C++ contests
